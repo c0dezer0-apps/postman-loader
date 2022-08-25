@@ -1,0 +1,7 @@
+__title__ = "postman-loader"
+__description__ = "Makes using Postman-generated json easy to use"
+__version__ = "1.0.0"
+__author__ = "Brian Blankenship"
+__author_email__ = "c0dezer019@zohomail.com"
+__license__ = "MIT"
+__copyright__ = "Copyright 2022 Brian Blankenship"
